@@ -1,3 +1,3 @@
 # Demo
 
-This is text file for the learning 
+This is text file for the learning.
